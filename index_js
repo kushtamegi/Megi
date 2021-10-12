@@ -1,0 +1,3 @@
+//const parent = document.getElementById("parent")
+//const parent2 = document.getElementsByClassName("parent")
+const parent = document.getquerySelectorAll(".parent")
